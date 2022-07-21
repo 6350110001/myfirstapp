@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/psu/kittisak/MainActivity.java
+ com.psu.kittisak.MainActivity
+com/psu/kittisak/BuildConfig.java
+ com.psu.kittisak.BuildConfig
